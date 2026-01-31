@@ -25,5 +25,5 @@ loginForm.addEventListener('submit', function(e) {
 
   // Normal user login (dummy)
   alert("Login successful! Redirecting to home page...");
-  window.location.href = "index.html"; // redirect to home page
+  window.location.href = "home.html"; // redirect to home page
 });
